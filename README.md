@@ -39,4 +39,6 @@ namespace Konabos.CMS.MenuItemRules
 
 5. Edit the rule, set your Conditions and then set the Action to **"set the command state to enabled"** in order to make the menu item visible.
 
+![Add Menu Visiblity Rules](https://github.com/jammykam/Konabos.SharedSource.MenuItemRules/raw/master/screenshots/Edit%20Menu%20Visibility%20Rules.png "Add Menu Visiblity Rules")
+
 If you want to integrate the code into your own project - the items have been serialized or there is a TDS project or there is an items-only package. You need to update the `Type` field in **/sitecore/system/Settings/Rules/Definitions/Elements/Context Menu Rules/Set Command State** in master database.
