@@ -35,7 +35,7 @@ namespace Konabos.CMS.MenuItemRules
 3. Create the menu item in the `Core` database under: `/sitecore/content/Applications/Content Editor/Context Menues/Default`. Set the **Message** field to your command, e.g. `menu:custom(id=$Target)`
 
 
-4. Create a `Rule` under `/sitecore/system/Settings/Rules/Context Menu Items/Rules` in the master database. The Rule name should match the sanitized command name which does not include any invaid item name characters. Using the above as an example: **menucustom** and **menuanother**.
+4. Create a `Rule` under `/sitecore/system/Settings/Rules/Context Menu Items/Rules` in the master database. The Rule name should match the sanitized command name which does not include any invalid item name characters. Using the above as an example: **menucustom** and **menuanother**.
 
 5. Edit the rule, set your Conditions and then set the Action to **"set the command state to enabled"** in order to make the menu item visible.
 
