@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {C1B25912-9945-4414-A1BD-4BF672001A7D}
+database: master
+path: /sitecore/system/Settings/Rules/Definitions/Elements/Context Menu Rules/Tags/Default
+parent: {F0C13157-358D-4850-978E-1869FDC35667}
+name: Default
+master: {9A72C539-DBF8-4DAD-96D3-A298FC04ADD6}
+template: {854BA861-63EA-4A0C-8C7B-541E9A7EC4C1}
+templatekey: Tags Definition
+created: 20171002T213309Z
+
+----field----
+field: {42F77151-098F-496A-94CF-590B7EDEEABE}
+name: Tags
+key: tags
+content-length: 38
+
+{77E34A5E-DD4C-4D8B-A30C-050EC5BC778A}
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{6F0688E4-7B16-482F-845B-35836FD15D14}
+----version----
+language: en
+version: 1
+revision: d24c3371-2ffc-4acc-a1c2-03b6388cc4e3
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171002T213309Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d24c3371-2ffc-4acc-a1c2-03b6388cc4e3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171002T213337Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

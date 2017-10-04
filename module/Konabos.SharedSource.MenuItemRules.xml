@@ -1,0 +1,71 @@
+<project>
+  <Metadata>
+    <metadata>
+      <PackageName>Konabos SharedSource MenuItemRules</PackageName>
+      <Author>Kamruz Jaman</Author>
+      <Version>1.0.0</Version>
+      <Revision />
+      <License />
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher>Konabos Consulting Inc</Publisher>
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/system/Settings/Rules/Context Menu Items/{76355D3B-D305-4B06-B458-E396DE232AFB}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Context Menu Items/Rules/{2CD17AA2-8B6E-4B88-8907-62A3D0CEBFB2}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Context Menu Items/Tags/{5A55BC10-B724-4074-9676-A8AEE31C6B0B}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Context Menu Items/Tags/Default/{E43307E6-8859-4A90-912B-9B5E7C4F0446}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Definitions/Command States/{C32F9A39-7C05-4EA8-A8CA-89A9DC0DC2CB}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Definitions/Command States/disabled/{DF5C89CB-CFC8-4405-BC61-7507578D7AED}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Definitions/Command States/down/{9188F3F7-7185-4EA0-8F39-BB68094C32AB}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Definitions/Command States/enabled/{976BDF52-EDB5-4621-94AD-55E468A62DD8}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Definitions/Command States/hidden/{1FDF9CB6-FA5E-46C7-989D-89115704FF93}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Definitions/Elements/Context Menu Rules/{3F336AFE-6763-4C19-BADD-5311D9472F81}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Definitions/Elements/Context Menu Rules/Set Command State/{93AA6C97-AC2F-4463-A679-61F85F328DE4}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Definitions/Elements/Context Menu Rules/Tags/{F0C13157-358D-4850-978E-1869FDC35667}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Definitions/Elements/Context Menu Rules/Tags/Default/{C1B25912-9945-4414-A1BD-4BF672001A7D}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Definitions/Elements/Context Menu Rules/Visibility/{B77FCA53-3A6B-49E6-BA59-72906B3C3852}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Definitions/Tags/Command State/{77E34A5E-DD4C-4D8B-A30C-050EC5BC778A}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Rules/Definitions/Tags/Command State/Visibility/{083435F5-3B24-472E-B6E2-DE1390A8D89C}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Menu Command States Rules</Name>
+    </xitems>
+    <xfiles>
+      <Entries>
+        <x-item>/bin/Konabos.CMS.MenuItemRules.dll</x-item>
+      </Entries>
+      <Converter>
+        <FileToEntryConverter>
+          <Root>/</Root>
+          <Transforms />
+        </FileToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>DLLs</Name>
+    </xfiles>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>

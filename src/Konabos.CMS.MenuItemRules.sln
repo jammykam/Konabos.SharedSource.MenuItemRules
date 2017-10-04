@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konabos.CMS.MenuItemRules", "Konabos.CMS.MenuItemRules\Konabos.CMS.MenuItemRules.csproj", "{B304336F-C893-4084-9DEC-5AC4E580C326}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Konabos.TDS.MenuItemRules.Master", "Konabos.TDS.MenuItemRules.Master\Konabos.TDS.MenuItemRules.Master.scproj", "{206679F8-0147-4FCB-BBE4-C94440DA5ABB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".tds", ".tds", "{672BCD93-04F5-4123-98C9-B10E8D810ADB}"
+	ProjectSection(SolutionItems) = preProject
+		TdsGlobal.config = TdsGlobal.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B304336F-C893-4084-9DEC-5AC4E580C326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B304336F-C893-4084-9DEC-5AC4E580C326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B304336F-C893-4084-9DEC-5AC4E580C326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B304336F-C893-4084-9DEC-5AC4E580C326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206679F8-0147-4FCB-BBE4-C94440DA5ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206679F8-0147-4FCB-BBE4-C94440DA5ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206679F8-0147-4FCB-BBE4-C94440DA5ABB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{206679F8-0147-4FCB-BBE4-C94440DA5ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206679F8-0147-4FCB-BBE4-C94440DA5ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206679F8-0147-4FCB-BBE4-C94440DA5ABB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
